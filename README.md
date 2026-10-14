@@ -121,4 +121,4 @@ Radio_GemTek/
 
 ## License
 
-See `LICENSE`. Confirm the license choice before publishing or redistributing the library.
+See LICENSE for details.
